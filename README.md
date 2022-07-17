@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# My Wave Portal 👋
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This is my first blockchain app, you can send a message for me and when the transaction is processed your message will be shown on the site!! All this system is powered by blockchain, besides it uses Goerli Test Network for fake ethers .
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+![Screenshot (14)](https://user-images.githubusercontent.com/88795320/179391823-8d78678d-8163-49a5-bbf8-84dfb5789bd7.png)
